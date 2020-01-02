@@ -5,6 +5,7 @@ var tester = /^[-!#$%&'*+\/0-9=?A-Z^_a-z`{|}~](\.?[-!#$%&'*+\/0-9=?A-Z^_a-z`{|}~
 // http://fightingforalostcause.net/misc/2006/compare-email-regex.php
 // http://thedailywtf.com/Articles/Validating_Email_Addresses.aspx
 // http://stackoverflow.com/questions/201323/what-is-the-best-regular-expression-for-validating-email-addresses/201378#201378
+//from tmp
 exports.validate = function(email)
 {
 	if (!email)
