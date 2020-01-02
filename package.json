@@ -48,6 +48,9 @@
   "bit": {
     "env": {},
     "componentsDefaultDirectory": "components/{name}",
-    "packageManager": "npm"
+    "packageManager": "npm",
+    "overrides": {
+      "erez-test-org-1.test/email-validator": {}
+    }
   }
 }
