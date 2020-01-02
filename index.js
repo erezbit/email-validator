@@ -8,6 +8,7 @@ var tester = /^[-!#$%&'*+\/0-9=?A-Z^_a-z`{|}~](\.?[-!#$%&'*+\/0-9=?A-Z^_a-z`{|}~
 //from tmp
 //test1
 //test2
+//test3
 exports.validate = function(email)
 {
 	if (!email)
